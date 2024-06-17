@@ -14,7 +14,7 @@ body {
 /* Mis trabajos */
 
 #Mis-trabajos .image-top {
-  height: 250px;
+  height: 300px;
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
@@ -33,7 +33,7 @@ body {
   }
 
   .navbar-brand{
-    width: 100px;
+    width: 200px;
   }
 
 }
